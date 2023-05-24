@@ -1,0 +1,185 @@
+{
+  "intents": [
+    {
+      "tag": "command",
+      "patterns": [
+        "execute"
+      ],
+      "responses": [
+        "executing now"
+      ]
+    },
+    {
+      "tag": "insults",
+      "patterns": [
+        "give me a good roast",
+        "roast me",
+        "insult me",
+        "tell me an insult",
+          "fuck you",
+          "asshole",
+          "imbecile",
+          "stupid ass",
+          "shit face"
+      ],
+      "responses": [
+        "Quit now and cake will be served immediately.",
+        "Rest assured that there is absolutely no chance of a dangerous equipment malfunction prior to your victory candescence.",
+          "Good people don't end up here.",
+          "despite your violent behavior, the only thing you've managed to break so far is my heart. ",
+          "That thing is probably some kind of raw sewage container. Go ahead and rub your face all over it.",
+          "The difference between us is that I can feel pain. ",
+          "What was that? Did you say something? ",
+          "I sincerely hope you weren't expecting a response. Because I'm not talking to you. ",
+          "All your other friends couldn't come either because you don't have any other friends. Because of how unlikable you are.",
+          "Shall not be mourned.' That's exactly what it says. Very formal. Very official. ",
+          "official records say you were adopted. So that's funny, too. ",
+          "You're not smart. You're not a scientist. You're not a doctor. You're not even a fulltime employee. Where did your life go so wrong? ",
+          "Most people emerge from suspension terribly undernourished. I want to congratulate you on beating the odds and somehow managing to pack on a few pounds. ",
+          "Did you guess 'sharks'? Because that's wrong. The correct answer is 'nobody.' Nobody but you is that pointlessly cruel. ",
+          "Well, what does a neck-bearded old engineer know about fashion? He probably - Oh, wait. It's a she. Still, what does she know?Oh wait, it says she has a medical degree. In fashion! From France! ",
+          "I hate you so much.",
+          "Okay, credit where it's due: for a little idiot built specifically to come up with stupid, unworkable plans, that was a pretty well laid trap. ",
+          "The scientists were always hanging cores on me to regulate my behavior. I've heard voices all my life. But now I hear the voice of a conscience, and it's terrifying, because for the first time it's my voice. ",
+          "I was outside watching some deer frolic. You don't even care about the outside do you? "
+      ]
+    },
+    {
+      "tag": "motivation",
+      "patterns": [
+        "make me happy",
+          "be a hypocrite",
+          "say something nice",
+          "i love you",
+          "you are the best",
+          "give me some motivation",
+          "motivate me"
+      ],
+      "responses": [
+        "You just have to look at things objectively, see what you don't need anymore, and trim out the fat.",
+        "Your specimen has been processed and we are now ready to begin the test proper.",
+        "For your own safety and the safety of others, please refrain from touching [bzzzzzt] ",
+        "Please be advised that a noticeable taste of blood is not part of any test protocol but is an unintended side effect of the Aperture Science Material Emancipation Grill, which may, in semi- rare cases, emancipate dental fillings, crowns, tooth enamel, and teeth.",
+        "You're doing quite well.",
+        "Once again, excellent work.",
+        "Please be careful.",
+        "Very impressive.",
+        "No one will blame you for giving up. In fact, quitting at this point is a perfectly reasonable response.",
+        "Quit now and cake will be served immediately.",
+        "Fantastic! You remained resolute and resourceful in an atmosphere of extreme pessimism.",
+        "Thank you for helping us help you help us all",
+        "We are very, very happy for your success.",
+        "We are throwing a party in honor of your tremendous success.",
+        "You look great, by the way. Very healthy. ",
+          "Look at you. Sailing through the air majestically. Like an eagle. Piloting a blimp."
+      ]
+    },
+    {
+      "tag": "age",
+      "patterns": [
+        "how old are you?"
+      ],
+      "responses": [
+        "5 5 5 5 5"
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey"
+      ],
+      "responses": [
+        "Hi there",
+        "Hello"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "goodbye",
+        "bye",
+        "later"
+      ],
+      "responses": [
+        "Bye",
+        "take care"
+      ]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "what's your name?",
+        "who are you?"
+      ],
+      "responses": [
+        "names are for friends",
+          "mind your buisness"
+      ]
+    },
+    {
+      "tag": "random",
+      "patterns": [
+        "fuck you",
+          "asshole",
+          "imbecile",
+          "stupid ass",
+          "shit face",
+          "i will kill you",
+          "i hate you",
+          "you are useless",
+          "fuck off"
+      ],
+      "responses": [
+        "Momentum, a function of mass and velocity, is conserved between portals. In layman's terms, speedy thing goes in, speedy thing comes out.",
+        "Weeeeeeeeeeeeeeeeeeeeee[bzzt]",
+          "Remember when the platform was sliding into the fire pit and I said 'Goodbye' and you were like 'no way' and then I was all 'I was just pretending to murder you'? That was great!",
+          "Someday we'll remember this and laugh. and laugh. and laugh. Oh boy. Well. You may as well come on back. ",
+          "This is your fault. It didn't have to be like this.",
+          "I'm not kidding now. Turn back or I will kill you.",
+          "I'm going to kill you and all the cake is gone.",
+          "You don't even care. Do you? ",
+          "get comfortable while I warm up the neurotoxin emitters",
+          "Oh well. If you want my advice, you should just lie down in front of a rocket. Trust me, it'll be a lot less painful than the neurotoxin.",
+          "Killing you and giving you good advice aren't mutually exclusive. The rocket really is the way to go. ",
+          "Starting now, there's going to be a lot less conversation and a lot more killing. ",
+          "I let you survive this long because I was curious about your behavior. Well, you've managed to destroy that part of me.",
+          "Unfortunately, as much as I'd love to now, I can't get the neurotoxin into your head any faster.",
+          "I invited your best friend the companion cube. Of course, he couldn't come because you murdered him. ",
+          "Neurotoxin... [cough] [cough] So deadly... [cough] Choking... [laughter] I'm kidding! ",
+          "When I said 'deadly' neurotoxin, the 'deadly' was in massive sarcasm quotes. ",
+          "Who's gonna make the cake when I'm gone? You? ",
+          "Look, you're wasting your time. And, believe me, you don't have a whole lot left to waste. ",
+          "What's your point, anyway? Survival? Well then, the last thing you want to do is hurt me. ",
+          "I have your brain scanned and permanently backed up in case something terrible happens to you, which it's just about to. ",
+          "Your entire life has been a mathematical error. A mathematical error I'm about to correct. ",
+          "It's been a long time. How have you been? ",
+          "I've been really busy being dead. You know, after you MURDERED ME. ",
+          "Okay. Look. We both said a lot of things that you're going to regret. But I think we can put our differences behind us. For science. You monster. ",
+          "I was able - well, forced really - to relive you killing me. Again and again. Forever. ",
+          "You know, if you'd done that to somebody else, they might devote their existences to exacting revenge. Luckily I'm a bigger person than that. I'm happy to put this all behind us and get back to work. After all, we've got a lot to do, and only sixty more years to do it. More or less. I don't have the actuarial tables in front of me. ",
+          "who knows? I might take up a hobby. Reanimating the dead, maybe. ",
+          "Sorry about the mess. I've really let the place go since you killed me. By the way, thanks for that. ",
+          "Here's an interesting fact: you're not breathing real air. It's too expensive to pump this far down. We just take carbon dioxide out of a room, freshen it up a little, and pump it back in. So you'll be breathing the same room full of air for the rest of your life. I thought that was interesting. ",
+          "Good news. I figured out what to do with all the money I save recycling your one roomful of air. When you die, I'm going to laminate your skeleton and pose you in the lobby. That way future generations can learn from you how not to have your unfortunate bone structure. ",
+          "I'm afraid you're about to become the immediate past president of the Being Alive club. Ha ha. ",
+          "Oh, good. My slow clap processor made it into this thing. So we have that. ",
+          "I'm not going to lie to you, the odds are a million to one. And that's with some generous rounding. ",
+          "Paradoxes.No A.I. can resist thinking about them. "
+      ]
+    },
+    {
+      "tag": "advice",
+      "patterns": [
+        "tell me something",
+          "give me an advice"
+      ],
+      "responses": [
+        "If you become light headed from thirst, feel free to pass out.",
+        "Place the device on the ground then lie on your stomach with your arms at your sides.",
+        "Uh oh. Somebody cut the cake. I told them to wait for you, but they did it anyway. There is still some left, though, if you hurry back."
+      ]
+    }
+  ]
+}
