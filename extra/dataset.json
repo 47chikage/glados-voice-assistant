@@ -1,15 +1,6 @@
 {
   "intents": [
     {
-      "tag": "command",
-      "patterns": [
-        "execute"
-      ],
-      "responses": [
-        "executing now"
-      ]
-    },
-    {
       "tag": "insults",
       "patterns": [
         "give me a good roast",
