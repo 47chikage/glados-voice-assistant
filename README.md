@@ -3,6 +3,7 @@ This is a (work in progress) glados voice assistant from portal games
 
 ## Structure
 i assembled multiple components to make this work
+- webscraping [glados voice lines](https://theportalwiki.com/wiki/GLaDOS_voice_lines) for obtaining glados dialogue
 - glados voice model from [R2D2FISH glados-tts](https://github.com/R2D2FISH/glados-tts)
 - vosk api for the speech to text from [vosk-api](https://github.com/alphacep/vosk-api)
 - nlp model i made myself for the "thinking" part, use the glados.ipynb and the dataset contained inside extra to make one yourself
