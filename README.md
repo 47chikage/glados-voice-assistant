@@ -1,7 +1,7 @@
 # glados-voice-assistant
 This is a (work in progress) glados voice assistant from portal games
 
-##structure
+## structure
 i assembled multiple components to make this work
 (links will be added later)
 -glados voice model from glados-tts repository
@@ -13,7 +13,7 @@ i assembled multiple components to make this work
 -when glados_think() returns a text means it understood and had a response using the nlp model
 -response is passed as text to glados_speak() which says the sentence in the voice of glados
 
-##future work
+## future work
 the nlp was made to detect commands if they start by execute (for now)
 i am thinking of hardcoding this instead of relying on the unreliable ai
 
