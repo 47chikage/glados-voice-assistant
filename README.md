@@ -18,5 +18,16 @@ i assembled multiple components to make this work
 ## Requirements 
 as i have been pip installing half of pypi since i tried a lot of things i have no memory of the used packages i'll have to rebuild from scratch and make the requirements.txt
 
+## What can it do
+- open browser
+- switch opened window (useful when you have 1 monitor and do web dev)
+- do a simple google search
+- grret
+- compliment
+- tell jokes
+- say goodbye
+- insult
+- can be easily extended to do much more
+
 ## Bonus
 check out [nerdaxic](https://github.com/nerdaxic/glados-voice-assistant) for a home voice assisstant as mine is made with a different purpose.
