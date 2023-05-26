@@ -31,3 +31,5 @@ as i have been pip installing half of pypi since i tried a lot of things i have 
 
 ## Bonus
 check out [nerdaxic](https://github.com/nerdaxic/glados-voice-assistant) for a home voice assisstant as mine is made with a different purpose.
+
+a  [demo](https://youtu.be/vGyWzCfpP4Q) of my voice assistant
